@@ -1,2 +1,2 @@
-# cyberformula3-homework
-Домашние задания TechOrda · Cyberformula 3
+# ДЗ 13. Файлы и NumPy
+Сделано:  челлендж 6–8.
